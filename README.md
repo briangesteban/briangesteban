@@ -7,10 +7,10 @@
 > broadening the new skills and experience that I've acquired.
 
 ## 💻 Tech Skills
-`HTML` `CSS` `SASS` `React` `JavaScript` `TypeScript` `REST API` `Node.JS` `Express` `MySQL`
+`HTML` `CSS` `SASS` `React` `Redux` `JavaScript` `TypeScript` `REST API` `Node.JS` `Express` `Authentication & Authorization` `MySQL` `Unit/Integration Test` `Git` `Agile/Scrum` `UI/UX Design` `Figma` `Adobe CC Suite`
 
 ## 💯 Few Things I Enjoy The Most
-`🎮 Video Games` `🍕 Food Trips` `🚗 Road Trips` `🍻 Party` `🏖 Outdoor specially at the beach` `📚 Learning New Things`
+`🎮 Video Games` `🍕 Food Trips` `🚗 Road Trips` `🍻 Party` `🏖 Outdoor (specially at the beach)` `📚 Learning New Things`
 
 ## 🔗 Connect with me! 
 * [LinkedIn](https://www.linkedin.com/in/brianesteban/)
