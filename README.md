@@ -1,4 +1,5 @@
 # Hi! I'm Brian 👋
+![Profile Banner: Brian Esteban a designer and a developer. Connect with me!](https://mir-s3-cdn-cf.behance.net/f7a05cce5a17c15041002f50ccfadb80/cdafa7e6-1c12-4440-a27a-26e8bf3bd771_rwc_0x6x3200x334x3200.png?h=95b2ea156a4ce00a7ed3b7c0bbf7b92a)
 ## A Seasoned Multimedia Designer and Aspiring Developer
 > Before I transition to Software Engineering, I've been in the industry of Multimedia for more than 5 years.
 > It's my passion to develop websites wayback on my university days, back in the Philippines.
@@ -15,6 +16,7 @@
 ## 🔗 Connect with me! 
 * [LinkedIn](https://www.linkedin.com/in/brianesteban/)
 * [Frontend Mentor](https://www.frontendmentor.io/profile/briangesteban)
+* [Behance](https://www.behance.net/BrianEsteban)
 
 ### Feel free to reach out. I'm open for work or collaborations! or just to chill out 😁
 
